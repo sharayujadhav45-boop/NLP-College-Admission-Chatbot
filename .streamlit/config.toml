@@ -1,0 +1,27 @@
+[theme]
+base = "light"
+font = "sans serif"
+baseRadius = "large"
+buttonRadius = "large"
+showWidgetBorder = true
+showSidebarBorder = true
+
+[theme.light]
+primaryColor = "#0F766E"
+backgroundColor = "#F7F9FC"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#172B4D"
+
+[theme.dark]
+primaryColor = "#5EEAD4"
+backgroundColor = "#101820"
+secondaryBackgroundColor = "#18232D"
+textColor = "#E6EDF3"
+
+[theme.light.sidebar]
+backgroundColor = "#EEF3F8"
+secondaryBackgroundColor = "#E3EAF2"
+
+[theme.dark.sidebar]
+backgroundColor = "#131E28"
+secondaryBackgroundColor = "#1D2A35"
